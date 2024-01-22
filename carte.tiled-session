@@ -1,0 +1,47 @@
+{
+    "activeFile": "carte.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "carte.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 443.33333333333326,
+                "y": 386
+            }
+        },
+        "carte.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "nature.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/Arthur/PycharmProjects/gametest.py",
+    "map.height": 50,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 50,
+    "openFiles": [
+        "carte.tmx",
+        "nature.tsx"
+    ],
+    "project": "carte.tiled-project",
+    "recentFiles": [
+        "nature.tsx",
+        "carte.tmx",
+        "carte.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.transparentColor": "#000000",
+    "tileset.useTransparentColor": true
+}
